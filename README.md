@@ -36,7 +36,7 @@
 - 🔧 Currently working with Angular and TypeScript to build dynamic web apps.
 - 🎨 Skilled in translating UI/UX designs into clean, semantic code.
 - 🧠 Always learning and exploring new frontend technologies.
-- 🐧 Comfortable working in Linux development environments.
+
 
 ---
 
