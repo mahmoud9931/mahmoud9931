@@ -1,27 +1,74 @@
-# 💫 About Me:
-🚀 Frontend developer with a passion for crafting responsive, high-performance web interfaces.<br>🔧 Currently working with React and TypeScript to build dynamic web apps.<br>🎨 Skilled in translating UI/UX designs into clean, semantic code.<br>🧠 Always learning and exploring new frontend technologies.
+<h1 align="center">Hi 👋, I'm Mahmoud</h1>
+<h3 align="center">Frontend Developer • UI Lover • JavaScript Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoudmohamed43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoud16601770@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmoud9931&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahmoud9931&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud9931&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahmoud9931&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmoud9931&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="coding">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahmoud9931&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 About Me
+- 🚀 Frontend Developer focused on building clean & modern web experiences  
+- 🌱 Currently learning **React & modern UI frameworks**
+- 🇪🇬 From Egypt
+
+---
+
+### 🌐 Connect with me  
+<p align="left">
+
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mahmoudmohamed43" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:mahmoud16601770@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"" />
+</a>
+
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+    <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>  
+   <br>
+
+  <!-- New Tools -->
+  
+  <img src="https://skillicons.dev/icons?i=vite" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+    <img src="https://skillicons.dev/icons?i=npm" width="45"/>
+    <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+      <img src="https://skillicons.dev/icons?i=git" width="45"/>
+
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/mahmoud9931">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osama-2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osama-2003&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20Views&color=0e75b6"/>
+</p>
