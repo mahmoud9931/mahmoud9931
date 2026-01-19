@@ -62,13 +62,13 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/mahmoud9931">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osama-2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osama-2003&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/mahmoud9931">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud9931&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud9931&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osama-2003&label=Profile%20Views&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=mahmoud9931&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
